@@ -9300,3 +9300,24 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+
+/*css by suvankar*/
+
+.banner-carousel{
+    
+    position: relative;
+    height: 750px;
+    z-index: 1;
+}
+
+.banner-carousel .slider-item{
+        background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 750px;
+    position: relative;
+    z-index: 1;
+    
+}
